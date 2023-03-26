@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Carlos Jiménez</h1>
-<h3 align="center">Desarrollador Web Frontend | HTML | CSS</h3>
+<h3 align="center">Desarrollador Web Frontend | HTML | CSS | JS</h3>
 
 - Actualmente estoy aprendiendo **Desarrollo Web, HTML, CSS y JS en Udemy**
 
